@@ -1,2 +1,2 @@
-# RockPaperScissors
+# RPS
 Simple Python RPS Game
