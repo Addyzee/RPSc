@@ -1,30 +1,30 @@
-name,listens_to,main_sdg_interest,other_interests,has_watched,favorite_food,topic_of_interest
-appleNyati,None,Good Health and Well-being,Quality Education and Clean Water and Sanitation,None,None,None
-carrotKapichi,Forest Blakk,Quality Education,Gender Equality and Partnerships for the Goals,Harry Potter,عصير حلو مر أو آبري,effective ways to start cleaning data and generate insights from raw data. How to kick off a project with only data available to reach to a solution or  insights of a certain problem.
-bananaAso,None,Quality Education,Gender Equality and Reduced Inequalities,None,None,"The provision of quality education to all, in Nigeria, and Africa at large, Mathematics education, and provision of equal opportunities to women"
-henKuku,Arlo Parks,Good Health and Well-being,Sustainable Cities and Communities and Gender Equality,Black mirror,maputi,"data visualisation, storytelling, equity, promoting the flourishing of Africa in interdisciplinary ways"
-elephantTembo,None,Good Health and Well-being,Zero Hunger and Quality Education,None,Haakö Bantara,How to encourage the talented African diaspora to return to Africa and serve in all areas of the social and economic lives of Africans
-flamingoMokoko,Carrie Underwood,Good Health and Well-being,Zero Hunger and Climate Action,Shang-Chi and the Legend of the Ten Rings,Ugali with chicken stew,Impact of research
-giraffeTwiga,Two Feet,Gender Equality,"Peace, Justice and Strong Institutions and Sustainable Cities and Communities",Stateless (movie).,"Potatoes in every shape or form, vegan of course.","Forced Migration, GEDI (Gender, Equality, Diversity & Inclusion)) and Global Humanitarian Logistics"
-hedgehogGizo,Gramps Morgan,Good Health and Well-being,Quality Education and Decent Work and Economic Growth,12 ANGRY MEN,CHAPATI,ETHICS AND PRINCIPLES IN COLLECTION OF DATA.
-iguanaDhimsu,Mejja,Climate Action,Life Below Water and No Poverty,As  the Crow Flies,Ugali ,Sustainability and Climate Change
-jaguarOsulima,Labi Siffre,Decent Work and Economic Growth,"Good Health and Well-being and Industry, Innovation and Infrastructure","Poong, the Joseon Psychiatrist",Ulumanda,Data visualization 
-kangarooDilabane,Kirk Franklin,Good Health and Well-being,Quality Education and Climate Action,None,Ingokho,"Data management, analysis, and visualization"
-lemurFotsy,None,Climate Action,Gender Equality and Life on Land,Taking Root,Mukimo,"Solutions to climate change, and what we can do at the grassroot levels to combat it"
-mongooseKusu,Oh Wonder,"Industry, Innovation and Infrastructure",Quality Education and Partnerships for the Goals,The boy who harnessed the wind,Biriyani ,"Intra trade, innovation"
-narwhalTuskfish,None,No Poverty,Quality Education and Affordable and Clean Energy,Gilmore Girls,ملاح نعيمية,"Languages and the effect of the choice of words in conveying messages. I could practically retell the Ted talk ""How languages shape the way we think"" by Lera Boroditsky."
-simbaAsad,The Weeknd,Climate Action,Good Health and Well-being and Life on Land,Prison break ,كسرى,The cultures and their origins their languages
-pandaPandoro,Ed Sheeran,Decent Work and Economic Growth,Reduced Inequalities and Sustainable Cities and Communities,Designated survivor,RnB (Rice and beans),"Presentation of data using various visualization tools, data management and cleaning tools"
-quokkaQuokka,Winyo,Climate Action,Zero Hunger and Life on Land,True Detective,Mukimo,Predictive analysis and models using python
-rhinocerosKifaru,Nyashinski,No Poverty,Decent Work and Economic Growth and Zero Hunger,Tomorrowland by Disney,Chapati,None
-slothLenhara,Abbey Ojomu,Good Health and Well-being,Quality Education and Reduced Inequalities,Derry Girls!,Ugali and milk cream mashed together in a bowl with a little sugar. ,"Python and how it’s applicable in research. 
+name,listens_to,main_sdg_interest,sdg2,sdg3,has_watched,favorite_food,topic_of_interest
+appleNyati,None,Good Health and Well-being,Quality Education,Clean Water and Sanitation,None,None,None
+carrotKapichi,Forest Blakk,Quality Education,Gender Equality,Reduced Inequalities,Harry Potter,عصير حلو مر أو آبري,effective ways to start cleaning data and generate insights from raw data. How to kick off a project with only data available to reach to a solution or  insights of a certain problem.
+bananaAso,None,Quality Education,Gender Equality,Partnerships for the Goals,None,None,"The provision of quality education to all, in Nigeria, and Africa at large, Mathematics education, and provision of equal opportunities to women"
+henKuku,Arlo Parks,Good Health and Well-being,Reduced Inequality,"Peace, Justice, and Strong Institutions",Black mirror,maputi,"data visualisation, storytelling, equity, promoting the flourishing of Africa in interdisciplinary ways"
+elephantTembo,None,Good Health and Well-being,Zero Hunger,Quality Education,None,Haakö Bantara,How to encourage the talented African diaspora to return to Africa and serve in all areas of the social and economic lives of Africans
+flamingoMokoko,Carrie Underwood,Good Health and Well-being,Sustainable Cities and Communities,Gender Equality,Shang-Chi and the Legend of the Ten Rings,Ugali with chicken stew,Impact of research
+giraffeTwiga,Two Feet,Gender Equality,Zero Hunger,Climate Action,Stateless (movie).,"Potatoes in every shape or form, vegan of course.","Forced Migration, GEDI (Gender, Equality, Diversity & Inclusion)) and Global Humanitarian Logistics"
+hedgehogGizo,Gramps Morgan,Good Health and Well-being,"Peace, Justice and Strong Institutions",Sustainable Cities and Communities,12 ANGRY MEN,CHAPATI,ETHICS AND PRINCIPLES IN COLLECTION OF DATA.
+iguanaDhimsu,Mejja,Climate Action,Quality Education,Decent Work and Economic Growth,As  the Crow Flies,Ugali ,Sustainability and Climate Change
+jaguarOsulima,Labi Siffre,Decent Work and Economic Growth,Life Below Water,No Poverty,"Poong, the Joseon Psychiatrist",Ulumanda,Data visualization 
+kangarooDilabane,Kirk Franklin,Good Health and Well-being,Good Health and Well-being,"Industry, Innovation and Infrastructure",None,Ingokho,"Data management, analysis, and visualization"
+lemurFotsy,None,Climate Action,Quality Education,Climate Action,Taking Root,Mukimo,"Solutions to climate change, and what we can do at the grassroot levels to combat it"
+mongooseKusu,Oh Wonder,"Industry, Innovation and Infrastructure",Gender Equality,Life on Land,The boy who harnessed the wind,Biriyani ,"Intra trade, innovation"
+narwhalTuskfish,None,No Poverty,Quality Education,Partnerships for the Goals,Gilmore Girls,ملاح نعيمية,"Languages and the effect of the choice of words in conveying messages. I could practically retell the Ted talk ""How languages shape the way we think"" by Lera Boroditsky."
+simbaAsad,The Weeknd,Climate Action,Quality Education,Affordable and Clean Energy,Prison break ,كسرى,The cultures and their origins their languages
+pandaPandoro,Ed Sheeran,Decent Work and Economic Growth,Good Health and Well-being,Life on Land,Designated survivor,RnB (Rice and beans),"Presentation of data using various visualization tools, data management and cleaning tools"
+quokkaQuokka,Winyo,Climate Action,Reduced Inequalities,Sustainable Cities and Communities,True Detective,Mukimo,Predictive analysis and models using python
+rhinocerosKifaru,Nyashinski,No Poverty,Zero Hunger,Life on Land,Tomorrowland by Disney,Chapati,None
+slothLenhara,Abbey Ojomu,Good Health and Well-being,Decent Work and Economic Growth,Zero Hunger,Derry Girls!,Ugali and milk cream mashed together in a bowl with a little sugar. ,"Python and how it’s applicable in research. 
 How to optimize AI tools like Chat GPT
 All the cool research that other students are doing"
-tigerNimr,Stephen Marley,Good Health and Well-being,Clean Water and Sanitation and Climate Action,the good doctor,mbalagha (pork cooked together with bananas) ,None
-unicornYadogor,Otile Brown,Good Health and Well-being,Quality Education and Reduced Inequalities,Money Heist,Chicken cooked in any type of way,None
-uragonflyLibliba,None,Quality Education,"Reduced Inequality and Peace, Justice, and Strong Institutions",None,None,"Understanding our African History, Identity and Roots, and cultural bias in scientific research"
-vultureAkufuna,Selina Gomez,"Industry, Innovation and Infrastructure",Sustainable Cities and Communities and Good Health and Well-being,Insecure,Pilau,"Data visualization, Machine Learning, Neural Networks and deep learning"
-walrusAiviq,Sia,Good Health and Well-being,Decent Work and Economic Growth and Clean Water and Sanitation,The Shawshank Redemption,Kuku kienyeji + wali wa nazi,I'm excited to learn about data visualization methods. I would particularly love to master the art of creating visually appealing and informative dashboards that are easy on non-technical audiences.
-x-rayfishDwee,Coldplay,Good Health and Well-being,Gender Equality and Reduced Inequalities,None,Ugali & fish. ,"How to find patterns and insights from information, and using that knowledge to make predictions and solve problems, Learning programming using Python. "
-yakYak,Bob Marley,Good Health and Well-being,Clean Water and Sanitation and Reduced Inequalities,Dexter ,papaya ,data analysis and interpretation 
-zebraPundamilia,FKJ,Good Health and Well-being,"Quality Education and Industry, Innovation and Infrastructure",None,Mucapata,"Culture, Health and Innovation withing Tech for Africans"
+tigerNimr,Stephen Marley,Good Health and Well-being,Quality Education,Reduced Inequalities,the good doctor,mbalagha (pork cooked together with bananas) ,None
+unicornYadogor,Otile Brown,Good Health and Well-being,Clean Water and Sanitation,Climate Action,Money Heist,Chicken cooked in any type of way,None
+uragonflyLibliba,None,Quality Education,Quality Education,Reduced Inequalities,None,None,"Understanding our African History, Identity and Roots, and cultural bias in scientific research"
+vultureAkufuna,Selina Gomez,"Industry, Innovation and Infrastructure",Sustainable Cities and Communities,Good Health and Well-being,Insecure,Pilau,"Data visualization, Machine Learning, Neural Networks and deep learning"
+walrusAiviq,Sia,Good Health and Well-being,Decent Work and Economic Growth,Clean Water and Sanitation,The Shawshank Redemption,Kuku kienyeji + wali wa nazi,I'm excited to learn about data visualization methods. I would particularly love to master the art of creating visually appealing and informative dashboards that are easy on non-technical audiences.
+x-rayfishDwee,Coldplay,Good Health and Well-being,Gender Equality,Reduced Inequalities,None,Ugali & fish. ,"How to find patterns and insights from information, and using that knowledge to make predictions and solve problems, Learning programming using Python. "
+yakYak,Bob Marley,Good Health and Well-being,Clean Water and Sanitation,Reduced Inequalities,Dexter ,papaya ,data analysis and interpretation 
+zebraPundamilia,FKJ,Good Health and Well-being,Quality Education,"Industry, Innovation and Infrastructure",None,Mucapata,"Culture, Health and Innovation withing Tech for Africans"
